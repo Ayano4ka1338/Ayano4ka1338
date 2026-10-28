@@ -33,8 +33,8 @@ A low-level software engineer and OSDev enthusiast. I love exploring operating s
 
 ## 🚀 Main Projects
 
-* **[YabroOS-32](https://github.com/Ayano4ka1338/YabroOS-32)** — A fully from-scratch, Linux-compatible 64-bit operating system with a custom kernel, VFS, ELF userspace and custom shell (YSH)
-* **[YabroOS-16](https://github.com/Ayano4ka1338/YabroOS-16)** — A fully from-scratch, real mode x86 operating system written in pure Assembly.
+* **[YabroOS-32](https://github.com/Ayano4ka1338/YabroOS-32)** - A fully from-scratch, Linux-compatible 64-bit operating system with a custom kernel, VFS, ELF userspace and custom shell (YSH)
+* **[YabroOS-16](https://github.com/Ayano4ka1338/YabroOS-16)** - A fully from-scratch, real mode x86 operating system written in pure Assembly.
 
 ---
 
