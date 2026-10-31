@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8b5cf6,6a0dad&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header)
 
 # Hi there, I'm Ayana! ✨
 
@@ -54,4 +54,4 @@ A low-level software engineer and OSDev enthusiast. I love exploring operating s
   </picture>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,8b5cf6&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer)
